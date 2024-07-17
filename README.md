@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @chirag-gitt
+- 👀 I’m interested in full-stack web development using Java, connecting JSP with XAMPP for backend development, and creating Python projects and finding job in my field.
+- 🌱 I’m currently learning AWS Cloud, MS Azure Cloud, and enhancing my skills in Java Data Structures and Algorithms and cloud computing.
+- 💞️ I’m looking to collaborate on web development projects, particularly those involving JSP, MySQL, and Python.
+- 📫 How to reach me: You can reach me via email at chiraggupta2811@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy watching movies as a hobby.
